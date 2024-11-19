@@ -1,0 +1,8 @@
+dotenv: .env
+wallets:
+  account_admin: ${ACCOUNT_ADMIN_PRIVATE_KEY}
+  account1_key: ${ACCOUNT1_PRIVATE_KEY}
+  account2_key: ${ACCOUNT2_PRIVATE_KEY}
+  account3_key: ${ACCOUNT3_PRIVATE_KEY}
+  account4_key: ${ACCOUNT4_PRIVATE_KEY}
+  account5_key: ${ACCOUNT5_PRIVATE_KEY}

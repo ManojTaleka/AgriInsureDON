@@ -1,0 +1,4 @@
+dotenv: .env
+wallets:
+  account_admin: ${ACCOUNT_ADMIN_PRIVATE_KEY}
+ 
